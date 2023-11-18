@@ -1,0 +1,1 @@
+# javascripit-string-as-object
